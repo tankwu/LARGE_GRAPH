@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+	<file>Vertices.vert</file>
+        <file>Vertices.frag</file>
+	<file>Poly.vert</file>
+	<file>Poly.frag</file>
+	<file>Lines.vert</file>
+        <file>Lines.frag</file>
+	<file>Blur.vert</file>
+        <file>Blur.frag</file>
+	<file>Coord.vert</file>
+        <file>Coord.frag</file>
+	<file>Pos.vert</file>
+        <file>Pos.frag</file>
+	<file>Sub.vert</file>
+	<file>Sub.frag</file>
+    </qresource>
+</RCC>
